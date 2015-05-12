@@ -1,3 +1,3 @@
 # new-coder
-test/first repository on GitHub
+test/first repository hosted on GitHub
 test repository for newcoder.io tutorials
